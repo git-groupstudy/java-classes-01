@@ -7,6 +7,8 @@ public class Hello {
 		System.out.println("Hello World");
 		
 		System.out.println("Hello Java");
+		
+		//추가
+		System.out.println("Github Upload Example");
 	}
-
 }
