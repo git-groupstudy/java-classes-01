@@ -41,7 +41,7 @@ public class Stars {
 //			System.out.println("");
 //		}
 		
-		//5. 피라미드 출력
+		//5. 삼각형 붙이기
 //		for (int i = 0; i < 5; i++) {
 //			
 //			for (int j = 4; j >= 0; j--) {
@@ -60,6 +60,8 @@ public class Stars {
 //			System.out.println("");
 //		}
 		
+		
+		//6. 피라미드 응용
 //		for(int i = 0; i < 5; i++){
 //			
 //			for(int j = 0; j < (4 - i); j++){
