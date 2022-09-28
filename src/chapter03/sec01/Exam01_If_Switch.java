@@ -1,6 +1,6 @@
 package chapter03.sec01;
 
-public class IfSwitchExample {
+public class Exam01_If_Switch {
 public static void main(String[] args) {
 		
 		//1. if문 기초

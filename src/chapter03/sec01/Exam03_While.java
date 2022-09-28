@@ -2,7 +2,7 @@ package chapter03.sec01;
 
 import java.util.Scanner;
 
-public class WhileExample {
+public class Exam03_While {
 	public static void main(String[] args) {
 		
 		//1. while문 소개

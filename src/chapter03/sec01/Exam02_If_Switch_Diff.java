@@ -1,6 +1,6 @@
 package chapter03.sec01;
 
-public class IfSwitchDiff {
+public class Exam02_If_Switch_Diff {
 	public static void main(String[] args) {
 		
 		

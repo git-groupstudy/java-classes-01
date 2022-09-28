@@ -1,6 +1,6 @@
 package chapter03.sec01;
 
-public class Stars {
+public class Exam06_Stars {
 	public static void main(String[] args) {
 		//1. 5 * 5 2차원 배열 알아보기
 //		for(int i=0; i<5; i++) {
