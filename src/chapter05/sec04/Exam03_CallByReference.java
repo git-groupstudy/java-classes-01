@@ -4,6 +4,8 @@ public class Exam03_CallByReference {
 
 	public static void main(String[] args) {
 		
+		//자바에는 Call By Reference가 없다..비슷해 보이지만 결국 Call By Value로 동작하고 있는 것.
+		
 		CounterRef counterRef = new CounterRef();
 		System.out.println("before count : " + counterRef.count);
 		
